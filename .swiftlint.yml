@@ -1,0 +1,4 @@
+excluded:
+  - Pods
+  - /Users/mak/Desktop/My\ Projects/Expense\ Tracker/Expense\ Tracker/Core
+line_length: 200
